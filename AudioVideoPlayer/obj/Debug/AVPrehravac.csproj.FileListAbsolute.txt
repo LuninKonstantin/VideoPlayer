@@ -1,0 +1,45 @@
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csprojAssemblyReference.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\MainWindow.g.cs
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\App.g.cs
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac_MarkupCompile.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac_MarkupCompile.lref
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.exe.config
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.exe
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.pdb
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\MainWindow.baml
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.g.resources
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.Properties.Resources.resources
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csproj.GenerateResource.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csproj.CoreCompileInputs.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.exe
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\WPF MediaElement\AVPrehravac 1.díl\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.pdb
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.exe.config
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.exe
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.pdb
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csprojAssemblyReference.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\MainWindow.g.cs
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\App.g.cs
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac_MarkupCompile.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac_MarkupCompile.lref
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\MainWindow.baml
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.g.resources
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.Properties.Resources.resources
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csproj.GenerateResource.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csproj.CoreCompileInputs.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.exe
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\AVPrehravac 2. priklad\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.pdb
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.exe.config
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.exe
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\bin\Debug\AVPrehravac.pdb
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csprojAssemblyReference.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\MainWindow.g.cs
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\App.g.cs
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac_MarkupCompile.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac_MarkupCompile.lref
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\MainWindow.baml
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.g.resources
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.Properties.Resources.resources
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csproj.GenerateResource.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.csproj.CoreCompileInputs.cache
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.exe
+D:\Petr\Programování\WPF C#\ClankyProITnetwork\Nové\AV přehrávač\Ukazka1\AVPrehravac\AVPrehravac\obj\Debug\AVPrehravac.pdb
